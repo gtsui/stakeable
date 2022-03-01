@@ -1,0 +1,12 @@
+.config.js
+.env
+.openzeppelin/
+artifacts/
+cache/
+deployments/
+node_modules/
+scratch/
+*.swp
+*.tmp
+*.tmp.*
+tmp/
